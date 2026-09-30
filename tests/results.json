@@ -1,0 +1,19 @@
+{
+  "passed": [
+    "Home + assets loaded",
+    "Save + persistent reload",
+    "Search + combined filters + reset",
+    "Property details + gallery + unique share URL",
+    "Booking validation + blocked demo payment (no fake success)",
+    "Like + add and delete own comment",
+    "Associated conversation + send + archive",
+    "Required validation + multiple device uploads + reorder + preview + publish",
+    "Seller pause/resume + edit + draft + delete",
+    "Report → admin inbox → resolve",
+    "Profile edit + notification mark all read",
+    "Logout + protected routes + auth validation + honest config errors + recovery",
+    "Mobile tabs + account routes + dark mode + no page overflow",
+    "Zero browser runtime errors"
+  ],
+  "externalServices": "Not configured; real authentication, delivery and gateway settlement not integration-tested."
+}
